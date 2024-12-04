@@ -3,20 +3,25 @@
 
 \starttext
 
-% \startfrontmatter
-% \component c_titlepage
+\startfrontmatter
+\component c_titlepage
 % \component c_preamel
 % \component c_figures
 % \component c_content
-% \stopfrontmatter
+\stopfrontmatter
 
 \startbodymatter
 
-\component c_act_1
-% \component c_act_2
+\startnarrower[left]
+\setupindenting[-\leftskip,yes]
+
+% \component c_act_1
+\component c_act_2
 % \component c_act_3
 % \component c_act_4
 % \component c_act_5
+
+\stopnarrower
 
 \stopbodymatter
 

@@ -24,6 +24,25 @@
 % Set font for drama text
 \setupbodyfont[palatino, 11pt] % You can change the font if desired
 
+\setuphead[chapter]
+          [
+            style=\bf,
+            number=no,
+            before={\blank[medium,force]},
+            after={\blank[big,force]},
+			indentnext=yes,
+           align=middle]
+
+\setuphead[section]
+          [
+            style=\style[bolditalic],
+            number=no,
+            before={\blank[medium,force]},
+            after={\blank[medium,force]},
+			indentnext=yes,
+           align=right]
+
+
 % Define headers
 % \definelayout
 %   [left] % For odd pages (left)
@@ -46,13 +65,11 @@
 
 \setupheadertexts
   []
-  [{\getmarking[scene]}]
-  [{\getmarking[chapter]}] % Left page: pagenumber, title, act
+  [section]
+  [chapter] % Left page: pagenumber, title, act
   [] % Right page: scene, title, pagenumber
 
 % Define acts and scenes for marking
-\definehead[act][chapter] % Use \chapter internally for acts
-\setuphead[act][header=high, textstyle=bold, align=middle, number=no, before={\blank[2*big]}, after={\blank[big]}, marking=act]
 
 % \define[2]\MyScene
 %   {
@@ -67,13 +84,9 @@
 % \define[1]\MyNumber
 %   {\hskip0.5em\framed[frame=off]{#1}\enskip} % Custom placement: framed, with space after
 
-\definehead[scene][section] % Use \section internally for scenes
-\setuphead[scene][bodypartlabel=scene, header=high, textstyle=italic, number=yes, before={\blank[big]}, after={\blank[big]}, marking=scene, conversion=Romannumerals]
-
-\setuplabeltext[en][scene=Scene~]
-
 % Turn off paragraph indentation (optional for drama style)
-% \setupindenting[yes]
+% \setupindenting[-\leftskip, yes]
+% \setupindenting[no]
 
 % \showframe
 % \showgrid
