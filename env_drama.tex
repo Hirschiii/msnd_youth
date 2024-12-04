@@ -1,0 +1,83 @@
+\startenvironment
+
+\mainlanguage[en]
+
+\setuppapersize[A5][A5]
+
+% Set margins with different inner/outer margins for left and right pages
+\setuplayout
+  [width=middle, % Automatic calculation of width
+   backspace=1.5cm, % Inner margin
+   topspace=1.5cm,
+   height=middle,
+   header=1.5cm, % Header height
+   footer=1.5cm,
+   leftmargin=2cm, % Outer margin
+   rightmargin=2cm,
+   location=middle,
+   marking=on] % Enable marking for headers
+
+% Page numbering style
+\setuppagenumbering[alternative=doublesided, location={margin,header}, style={\bf}]
+
+
+% Set font for drama text
+\setupbodyfont[palatino, 11pt] % You can change the font if desired
+
+% Define headers
+% \definelayout
+%   [left] % For odd pages (left)
+%   [header=1.5cm,
+%    leftmargin=6cm,
+%    footer=1.5cm]
+
+  % [right] % For even pages (right)
+% \definelayout
+%   [header=1.5cm,
+%    rightmargin=6cm,
+%    footer=1.5cm]
+
+% Header content setup
+% \setupheadertexts
+%   [pagenumber\hfill{\em A Midsummer Night's Dream} \hfill Act: \getmarking[act]] % Left page: pagenumber, title, act
+%   [{\getmarking[scene] \hfill \em A Midsummer Night's Dream \hfill pagenumber}] % Right page: scene, title, pagenumber
+
+% \setupheadertexts[Midsummer Night's Dream]
+
+\setupheadertexts
+  []
+  [{\getmarking[scene]}]
+  [{\getmarking[chapter]}] % Left page: pagenumber, title, act
+  [] % Right page: scene, title, pagenumber
+
+% Define acts and scenes for marking
+\definehead[act][chapter] % Use \chapter internally for acts
+\setuphead[act][header=high, textstyle=bold, align=middle, number=no, before={\blank[2*big]}, after={\blank[big]}, marking=act]
+
+% \define[2]\MyScene
+%   {
+%   \bTABLEnested[frame=off]
+%   \bTR
+%   \bTD #2 \eTD \bTD #1 \eTD
+%   \eTR
+%   \eTABLEnested
+%   }
+
+% Define how the number is formatted/placed
+% \define[1]\MyNumber
+%   {\hskip0.5em\framed[frame=off]{#1}\enskip} % Custom placement: framed, with space after
+
+\definehead[scene][section] % Use \section internally for scenes
+\setuphead[scene][bodypartlabel=scene, header=high, textstyle=italic, number=yes, before={\blank[big]}, after={\blank[big]}, marking=scene, conversion=Romannumerals]
+
+\setuplabeltext[en][scene=Scene~]
+
+% Turn off paragraph indentation (optional for drama style)
+% \setupindenting[yes]
+
+% \showframe
+% \showgrid
+% \showlayout
+
+
+\stopenvironment

@@ -1,0 +1,719 @@
+resolvers       > globbing > confusing filename, name: 'custMatTransform.py', lower: 'custmattransform.py', already: 'CustMatTransform.py'
+
+resolvers       > globbing > confusing filename, name: 'setCustomAnchor.py', lower: 'setcustomanchor.py', already: 'SetCustomAnchor.py'
+
+resolvers       > globbing > confusing filename, name: 'widg_addLabel.py', lower: 'widg_addlabel.py', already: 'Widg_addLabel.py'
+
+resolvers       > globbing > confusing filename, name: 'widg_addPolyOpt.py', lower: 'widg_addpolyopt.py', already: 'Widg_addPolyOpt.py'
+
+resolvers       > globbing > confusing filename, name: 'widg_editBezier.py', lower: 'widg_editbezier.py', already: 'Widg_editBezier.py'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'FontLog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Fontlog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'FontLog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'FontLog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'FontLog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Readme.txt', lower: 'readme.txt', already: 'README.txt'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'FontLog.txt', lower: 'fontlog.txt', already: 'FONTLOG.txt'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'ChangeLog.md', lower: 'changelog.md', already: 'CHANGELOG.md'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'GUST-FONT-LICENSE.TXT', lower: 'gust-font-license.txt', already: 'GUST-FONT-LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Copyright.txt', lower: 'copyright.txt', already: 'COPYRIGHT.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Manifest.txt', lower: 'manifest.txt', already: 'MANIFEST.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'README.eng', lower: 'readme.eng', already: 'README.ENG'
+
+resolvers       > globbing > confusing filename, name: 'README.pol', lower: 'readme.pol', already: 'README.POL'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'History', lower: 'history', already: 'HISTORY'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG.txt', lower: 'changelog.txt', already: 'ChangeLog.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'ANNOUNCE.txt', lower: 'announce.txt', already: 'Announce.txt'
+
+resolvers       > globbing > confusing filename, name: 'CHANGES.txt', lower: 'changes.txt', already: 'Changes.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'ToDo', lower: 'todo', already: 'TODO'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Copying', lower: 'copying', already: 'COPYING'
+
+resolvers       > globbing > confusing filename, name: 'Licence.txt', lower: 'licence.txt', already: 'LICENCE.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'History', lower: 'history', already: 'HISTORY'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'README-de', lower: 'readme-de', already: 'README-DE'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'ANNOUNCE.txt', lower: 'announce.txt', already: 'Announce.txt'
+
+resolvers       > globbing > confusing filename, name: 'SRCFILEs.txt', lower: 'srcfiles.txt', already: 'SrcFILEs.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Bugs', lower: 'bugs', already: 'BUGS'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'LIESMICH.txt', lower: 'liesmich.txt', already: 'Liesmich.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'SRCFILEs.txt', lower: 'srcfiles.txt', already: 'SrcFILEs.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'History', lower: 'history', already: 'HISTORY'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'ChangeLog.md', lower: 'changelog.md', already: 'CHANGELOG.md'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'SRCFILEs.txt', lower: 'srcfiles.txt', already: 'SrcFILEs.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'ToDo', lower: 'todo', already: 'TODO'
+
+resolvers       > globbing > confusing filename, name: 'LIESMICH.txt', lower: 'liesmich.txt', already: 'Liesmich.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'CHANGEs.txt', lower: 'changes.txt', already: 'Changes.txt'
+
+resolvers       > globbing > confusing filename, name: 'SRCFILEs.txt', lower: 'srcfiles.txt', already: 'SrcFILEs.txt'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'Copyright', lower: 'copyright', already: 'COPYRIGHT'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'ChangeLog.md', lower: 'changelog.md', already: 'CHANGELOG.md'
+
+resolvers       > globbing > confusing filename, name: 'Contributing.md', lower: 'contributing.md', already: 'CONTRIBUTING.md'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'ANNOUNCE', lower: 'announce', already: 'Announce'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'README.1st', lower: 'readme.1st', already: 'README.1ST'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'ANNOUNCE.txt', lower: 'announce.txt', already: 'Announce.txt'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Readme.txt', lower: 'readme.txt', already: 'README.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'History', lower: 'history', already: 'HISTORY'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'ChangeLog.md', lower: 'changelog.md', already: 'CHANGELOG.md'
+
+resolvers       > globbing > confusing filename, name: 'LICENSE.TXT', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'MANIFEST.TXT', lower: 'manifest.txt', already: 'MANIFEST.txt'
+
+resolvers       > globbing > confusing filename, name: 'TODO.TXT', lower: 'todo.txt', already: 'ToDo.txt'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'VERSION.tex', lower: 'version.tex', already: 'Version.tex'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Copyright', lower: 'copyright', already: 'COPYRIGHT'
+
+resolvers       > globbing > confusing filename, name: 'Copyright', lower: 'copyright', already: 'COPYRIGHT'
+
+resolvers       > globbing > confusing filename, name: 'History.txt', lower: 'history.txt', already: 'HISTORY.TXT'
+
+resolvers       > globbing > confusing filename, name: 'Manifest.txt', lower: 'manifest.txt', already: 'MANIFEST.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'README.1st', lower: 'readme.1st', already: 'README.1ST'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Contributors.md', lower: 'contributors.md', already: 'CONTRIBUTORS.md'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'README.PL', lower: 'readme.pl', already: 'README.pl'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'History', lower: 'history', already: 'HISTORY'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'HISTORY.txt', lower: 'history.txt', already: 'HISTORY.TXT'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'README.TeXLive', lower: 'readme.texlive', already: 'README.TEXLIVE'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Contributors.md', lower: 'contributors.md', already: 'CONTRIBUTORS.md'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'logo.JPG', lower: 'logo.jpg', already: 'Logo.jpg'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'License.txt', lower: 'license.txt', already: 'LICENSE.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'TODO.txt', lower: 'todo.txt', already: 'ToDo.txt'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'VERSION.tex', lower: 'version.tex', already: 'Version.tex'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+system          > 
+system          > ConTeXt  ver: 2024.02.27 09:18 LMTX  fmt: 2024.8.13  int: english/english
+system          > 
+system          > 'cont-new.mkxl' loaded
+open source     > level 1, order 1, name '/usr/local/texlive/2024/texmf-dist/tex/context/base/mkxl/cont-new.mkxl'
+system          > beware: some patches loaded from cont-new.mkiv
+close source    > level 1, order 1, name '/usr/local/texlive/2024/texmf-dist/tex/context/base/mkxl/cont-new.mkxl'
+system          > 'cont-sys.mkxl' loaded
+open source     > level 1, order 2, name '/usr/local/texlive/2024/texmf-dist/tex/context/texlive/cont-sys.mkxl'
+close source    > level 1, order 2, name '/usr/local/texlive/2024/texmf-dist/tex/context/texlive/cont-sys.mkxl'
+system          > files > jobname './main', input './main.tex', result './main'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 1, order 3, name './main.tex'
+fonts           > preloading latin modern fonts (second stage)
+fonts           > 'fallback modern rm 12pt' is loaded
+pages           > flushing realpage 1, userpage 1, subpage 1
+close source    > level 1, order 3, name './main.tex'
+backend         > xmp > using file '/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+system          > start used files
+system          > text: main
+system          > stop used files
+system          > start used files
+system          >    1: filename=publ-imp-default.lua filetype=lua foundname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    2: filename=cont-new.mkxl filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkxl/cont-new.mkxl fullname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkxl/cont-new.mkxl usedmethod=database
+system          >    3: filename=cont-sys.mkxl filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/texlive/cont-sys.mkxl fullname=/usr/local/texlive/2024/texmf-dist/tex/context/texlive/cont-sys.mkxl usedmethod=database
+system          >    4: filename=lang-exc.lua filetype=lua foundname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    5: filename=lang-us.lua filetype=lua foundname=/usr/local/texlive/2024/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2024/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    6: filename=/Users/niklas/projects/midsummer_youth/layout/.test/indent_typing/main.tex format=tex foundname=/Users/niklas/projects/midsummer_youth/layout/.test/indent_typing/main.tex fullname=/Users/niklas/projects/midsummer_youth/layout/.test/indent_typing/main.tex usedmethod=direct
+system          >    7: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/lm.lfg fullname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+system          >    8: filename=lmroman10-regular filetype=otf format=otf foundname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf fullname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf usedmethod=database
+system          >    9: filename=modern-text.lfg filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/modern-text.lfg fullname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/modern-text.lfg usedmethod=database
+system          >   10: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+system          >   11: filename=modern-math.lfg filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/modern-math.lfg fullname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/modern-math.lfg usedmethod=database
+system          >   12: filename=common-math.lfg filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/common-math.lfg fullname=/usr/local/texlive/2024/texmf-dist/tex/context/fonts/mkiv/common-math.lfg usedmethod=database
+system          >   13: filename=LatinModernMath-Companion.otf filetype=otf format=otf foundname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/context-companion-fonts/LatinModernMath-Companion.otf fullname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/context-companion-fonts/LatinModernMath-Companion.otf usedmethod=database
+system          >   14: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+system          >   15: filename=lpdf-pdx.xml filetype=tex foundname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/local/texlive/2024/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          > stop used files
+system          > start commandline options
+system          >   currentrun="1"
+system          >   fulljobname="./main.tex"
+system          >   input="./main.tex"
+system          >   kindofrun="1"
+system          >   maxnofruns="9"
+system          >   texmfbinpath="/Library/TeX/texbin"
+system          > stop commandline options
+system          > start commandline files
+system          >    1: ./main.tex
+system          > stop commandline files
+modules         > start used modules
+modules         > stop used modules
+system          > 
+system          > status after finishing run
+system          > 
+system          >   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          >           string       pool       hash     lookup       node      token     buffer      input       file       nest  parameter       save       font   language       mark     insert
+system          >   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          >   max    2097152  100000000    2097152    2097152  100000000   10000000  100000000     100000       2000      10000     100000     500000     100000      10000      10000        500
+system          >   min     150000   10000000     150000     150000    2000000    1000000    1000000      10000        500       1000      20000     100000        250        250         50         10
+system          >   set     500000   10000000     250000     250000   50000000   10000000   10000000     100000       2000      10000     100000     500000     100000        250        250        250
+system          >   stp     100000    1000000     100000     100000     500000     250000    1000000      10000        250       1000      10000      10000        250        250         50         25
+system          > 
+system          >   mem     150000     977304     150000               2000000    1000000    1000000      10000        500       1000      20000      10000   14744624         96       1200        320
+system          >   all    2400000     977304    2400000              18000000    8000000    1000000     320000      16000      88000      80000     160000   14744624         96      28800      10240
+system          > 
+system          >   ini    2146277     932644          0      49108          0     544349                                                                                       0                      
+system          >   ptr      51025                 10416      51008                579129          0          5          0          0          0          0         39          0          0          8
+system          >   top      51026                807100     131074       7581     576625        151         38          5         12         39        196        250        250         50         10
+system          >   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+system          > 
+system          >   current input type    : initial
+system          > 
+system          >   approximate memory    : 52382768 (49 MB)
+system          > 
+system          >   expansion depth       : min: 10000, max: 1000000, set: 10000, top: 5
+system          > 
+system          >   luabytecode registers : 1017
+system          >   luabytecode bytes     : 16288 (0 MB)
+system          >   luastate bytes now    : 128181163 (122 MB)
+system          >   luastate bytes max    : 128181163 (122 MB)
+system          > 
+system          >   file callbacks        : 120
+system          >   saved callbacks       : 258
+system          >   direct callbacks      : 3
+system          >   function callbacks    : 623
+system          >   value callbacks       : 429
+system          >   message callbacks     : 0
+system          >   bytecode callbacks    : 621
+system          > 
+system          >   mp instances          : 0
+system          >   mp estimated memory   : 0 (0 MB)
+system          >   mp file callbacks     : 0
+system          >   mp text callbacks     : 0
+system          >   mp script callbacks   : 0
+system          >   mp log callbacks      : 0
+system          > 
+system          >   total callbacks       : 2054
+system          >   mp total callbacks    : 0
+system          >   backend callbacks     : 0
+system          > 
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable+writable: '/Users/niklas/Library/texlive/2024/texmf-var/luametatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
+mkiv lua stats  > resource resolver: loadtime 1.794 seconds, 2 scans with scantime 1.792 seconds, 0 shared scans, 15 found files, scanned paths: /Users/niklas/texmf /usr/local/texlive/2024/texmf-dist
+mkiv lua stats  > stored bytecode data: 517 modules (1.975 sec), 104 tables (0.010 sec), 621 chunks (1.985 sec)
+mkiv lua stats  > traced context: maxstack: 1760, freed: 0, unreachable: 1760
+mkiv lua stats  > cleaned up reserved nodes: 74 nodes, 7 lists of 437
+mkiv lua stats  > node memory usage: 18 attribute, 1 glue, 133 gluespec, 1 kern, 659 mathspec, 2 penalty, 2 temp
+mkiv lua stats  > node list callback tasks: 16 unique task lists, 10 instances (re)created, 81 calls
+mkiv lua stats  > used backend: pdf
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: file: 120, saved: 258, direct: 3, function: 623, value: 429, message: 0, bytecode: 621, late 0, total: 2054 (2054 per page)
+mkiv lua stats  > randomizer: resumed with value 0.44544300600603
+mkiv lua stats  > loaded patterns: en::1, load time: 0.000
+mkiv lua stats  > loaded fonts: 4 files: latinmodernmath-companion.otf, latinmodern-math.otf, lmmono10-regular.otf, lmroman10-regular.otf
+mkiv lua stats  > font engine: otf 3.140, afm 1.540, tfm 1.000, 27 instances, 21 shared in backend, 4 common vectors, 17 common hashes, load time 0.318 seconds 
+mkiv lua stats  > math tweaking time: 0.152 seconds, 24 math goodie tables
+mkiv lua stats  > font embedding time: 0.002 seconds, 2 fonts
+mkiv lua stats  > result saved in file: main.pdf, compresslevel 1, objectcompresslevel 3, 10 streams, 0 uncompressed, 6 compressed, 4 not compressed, threshold 40
+mkiv lua stats  > positions: 4 collected, 0 deltas, 0 shared partials, 0 partial entries
+mkiv lua stats  > used platform: osx-arm, type: unix, binary subtree: bin
+mkiv lua stats  > used engine: luametatex version: 2.11.02, functionality level: 20240226, format id: 700, compiler: clang
+mkiv lua stats  > tex properties: 807100 hash slots used of 2097152, 51008 control sequences, approximate memory usage: 49 MB
+mkiv lua stats  > lua properties: engine: lua 5.5, used memory: 126 MB, ctx: 122 MB, max: 122 MB, symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 2.358 seconds, 1 processed pages, 1 shipped pages, 0.424 pages/second
