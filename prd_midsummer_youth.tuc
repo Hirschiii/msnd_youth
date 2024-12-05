@@ -45,6 +45,10 @@ utilitydata.job.structure.collected={
      ["type"]="component",
     },
     {
+     ["name"]="act_1",
+     ["type"]="component",
+    },
+    {
      ["name"]="act_2",
      ["type"]="component",
     },
@@ -110,6 +114,33 @@ utilitydata.structures.sections.collected={
   ["separatorset"]="default",
   ["set"]="all",
  },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=3,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=4,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
+ {
+  ["block"]="bodypart",
+  ["conversionset"]="default",
+  ["hidenumber"]=true,
+  ["language"]="en",
+  ["numbers"]=5,
+  ["separatorset"]="default",
+  ["set"]="all",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -117,7 +148,7 @@ if not utilitydata.structures.counters then utilitydata.structures.counters = { 
 
 utilitydata.structures.counters.collected={
  ["chemical"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["combination"]={
   { 0 },
@@ -126,28 +157,28 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["figure"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["float"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["footnote"]={
   { 0 },
  },
  ["formula"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["graphic"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["intermezzo"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["itemgroup:itemize:note"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["linenote"]={
   { 0 },
@@ -156,25 +187,25 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["paragraph"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["publicationnote"]={
   { 0 },
  },
  ["realpage"]={
-  { 4 },
+  { 12 },
  },
  ["subpage"]={
-  { 4 },
+  { 12 },
  },
  ["table"]={
-  { 0, 0 },
+  { 0, 0, 0 },
  },
  ["textnote:note"]={
   { 0 },
  },
  ["userpage"]={
-  { 2 },
+  { 10 },
  },
 }
 
@@ -183,15 +214,63 @@ if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
 
 utilitydata.structures.lists.collected={
  {
-  ["metadata"]=3,
-  ["numberdata"]=4,
+  ["metadata"]=6,
+  ["numberdata"]=7,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=1,
-   ["prefix"]="act_2",
+   ["prefix"]="act_1",
    ["realpage"]=3,
    ["section"]=1,
    ["structure"]=3,
+  },
+  ["titledata"]={
+   ["label"]="chapter",
+   ["title"]="Act 1",
+  },
+ },
+ {
+  ["metadata"]=8,
+  ["numberdata"]=9,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=2,
+   ["prefix"]="act_1",
+   ["realpage"]=3,
+   ["section"]=2,
+   ["structure"]=3,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Scene 1",
+  },
+ },
+ {
+  ["metadata"]=8,
+  ["numberdata"]=10,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=3,
+   ["prefix"]="act_1",
+   ["realpage"]=7,
+   ["section"]=3,
+   ["structure"]=3,
+  },
+  ["titledata"]={
+   ["label"]="section",
+   ["title"]="Scene 2",
+  },
+ },
+ {
+  ["metadata"]=6,
+  ["numberdata"]=11,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=4,
+   ["prefix"]="act_2",
+   ["realpage"]=11,
+   ["section"]=4,
+   ["structure"]=4,
   },
   ["titledata"]={
    ["label"]="chapter",
@@ -199,15 +278,15 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=5,
-  ["numberdata"]=6,
+  ["metadata"]=8,
+  ["numberdata"]=12,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=2,
+   ["internal"]=5,
    ["prefix"]="act_2",
-   ["realpage"]=3,
-   ["section"]=2,
-   ["structure"]=3,
+   ["realpage"]=11,
+   ["section"]=5,
+   ["structure"]=4,
   },
   ["titledata"]={
    ["label"]="section",
@@ -224,32 +303,96 @@ utilitydata.structures.pages.collected={
   ["block"]="frontpart",
   ["label"]=false,
   ["number"]=1,
-  ["numberdata"]=7,
-  ["prefixdata"]=8,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
   ["state"]="stop",
  },
  {
   ["block"]="frontpart",
   ["label"]=false,
   ["number"]=1,
-  ["numberdata"]=7,
-  ["prefixdata"]=8,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["label"]=false,
   ["number"]=0,
-  ["numberdata"]=7,
-  ["prefixdata"]=8,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
   ["state"]="start",
  },
  {
   ["block"]="bodypart",
   ["label"]=false,
   ["number"]=2,
-  ["numberdata"]=7,
-  ["prefixdata"]=8,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=3,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=4,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=5,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=6,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=7,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=8,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=9,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
+  ["state"]="start",
+ },
+ {
+  ["block"]="bodypart",
+  ["label"]=false,
+  ["number"]=10,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
   ["state"]="start",
  },
 }
@@ -341,6 +484,9 @@ utilitydata.job.packed={
  ["index"]={
   { 0, 1 },
   { 0, 1, 1 },
+  { 0, 1, 2 },
+  { 0, 2 },
+  { 0, 2, 1 },
   {
    ["catcodes"]=9,
    ["coding"]="tex",
@@ -372,6 +518,33 @@ utilitydata.job.packed={
    ["hidenumber"]=true,
    ["language"]="en",
    ["numbers"]=2,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=3,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=4,
+   ["separatorset"]="default",
+   ["set"]="all",
+  },
+  {
+   ["block"]="bodypart",
+   ["conversionset"]="default",
+   ["hidenumber"]=true,
+   ["language"]="en",
+   ["numbers"]=5,
    ["separatorset"]="default",
    ["set"]="all",
   },
